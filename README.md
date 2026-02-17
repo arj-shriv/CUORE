@@ -1,5 +1,9 @@
 # NeuralODE for Time-Series Signal Modeling  
 
+<img width="1490" height="989" alt="image" src="https://github.com/user-attachments/assets/5dd9b76e-2be0-472e-8bcc-23f2b045cde0" />
+
+
+
 ## Overview  
 This project implements a **Neural Ordinary Differential Equation (Neural ODE)** architecture in JAX and Equinox to model the continuous-time dynamics of real-world signals. Neural ODEs treat hidden state evolution as a differential equation parameterized by a neural network, allowing the model to learn realistic time-based behavior rather than relying on simple regression.  
 
